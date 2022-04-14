@@ -7,4 +7,4 @@ def displayInventory(inventory):
         print(stuff[item], item)
     print(f"Total number of items: {sum(stuff.values())}")
 
-displayInventory(stuff)
+#displayInventory(stuff)
